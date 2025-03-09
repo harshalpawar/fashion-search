@@ -1,0 +1,4 @@
+venv/
+data/
+fashion_vectors.index
+metadata.csv
