@@ -28,7 +28,7 @@ sentence-transformers==3.4.1
 sympy==1.13.1
 threadpoolctl==3.5.0
 tokenizers==0.21.0
-torch==2.6.0
+torch==2.7.1
 torchvision==0.21.0
 tqdm==4.67.1
 transformers==4.49.0
